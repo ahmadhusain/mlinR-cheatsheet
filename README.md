@@ -1,5 +1,10 @@
 # Machine Learning Modelling in R: Cheatsheet
 
+Is a cheat sheet to help determine what machine learning algorithms appropriate to use. Also for further improvement will be adding case examples for each machine learning method with R.
+
+- [x] Regression cases
+- [ ] Classification cases
+- [ ] Timeseries cases
 
 ![](img/MlinR-Cheatsheet.png)
 
